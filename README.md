@@ -31,7 +31,7 @@ The following screenshot shows an example of a dynamically generated logo.svg ba
 
 
 Here is a link to the walkthrough video that demonstrates the functionality of the SVG logo generator:
-https://youtu.be/u3T4Gq4Z9FM
+https://youtu.be/yh5xZdkfQD0
 
 
 
